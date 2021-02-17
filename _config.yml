@@ -1,7 +1,7 @@
 title: Likapi
 description: Librairie d'APIs gratuites et open-sources.
-baseurl: ""
-url: ""
+baseurl: "/docs"
+url: "https://likapi.github.io"
 
 permalink: pretty
 exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
