@@ -1,0 +1,54 @@
+title: Likapi
+description: Librairie d'APIs gratuites et open-sources.
+baseurl: ""
+url: ""
+
+permalink: pretty
+exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+search_enabled: true
+
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 3
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+heading_anchors: true
+
+aux_links:
+  "Documentation sur Github ":
+    - "//github.com/likapi/docs"
+
+aux_links_new_tab: false
+nav_sort: case_sensitive
+
+back_to_top: true
+back_to_top_text: "Retour en haut"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+gh_edit_link: false
+color_scheme: light
+
+plugins:
+  - jekyll-seo-tag
+
+theme: just-the-docs
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false

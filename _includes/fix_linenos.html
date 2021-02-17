@@ -1,0 +1,8 @@
+{% assign fix_linenos_code = include.code %}
+{% if fix_linenos_code contains '<table class="rouge-table">' %}
+  {% assign fix_linenos_code = fix_linenos_code | replace: '<pre class="highlight">', '<pre>' %}
+  {% assign fix_linenos_code = fix_linenos_code | replace: "<pre><code", "<code" %}
+  {% assign fix_linenos_code = fix_linenos_code | replace: "</code></pre>", "</code>" %}
+{% endif %}
+{{ fix_linenos_code }}
+{% assign fix_linenos_code = nil %}
