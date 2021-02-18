@@ -12,7 +12,7 @@ permalink: /
 Concevez et personnalisez rapidement des sites mobiles réactifs avec Likapi, la librairie d'API's open source, gratuite la plus adaptée au monde, comprenant des liens d'appels données et des exemples de codes.
 {: .fs-6 .fw-300 }
 
-[Commencer maintenant]({{ '/docs/getting-started/' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Voir sur GitHub](https://github.com/likapi/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Commencer maintenant]({{ '/docs/getting-started' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Voir sur GitHub](https://github.com/likapi/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
