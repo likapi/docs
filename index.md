@@ -20,7 +20,7 @@ Concevez et personnalisez rapidement des sites mobiles réactifs avec Likapi, la
 
 ### Versions
 
-Vous pouvez retrouver les versions officiels du logiciel sur ce dépôt [tracker](https://github.com/likapi/tracker/releases).
+Vous pouvez retrouver les versions officielles du logiciel sur ce dépôt [tracker](https://github.com/likapi/tracker/releases).
 
 ### Linux
 
