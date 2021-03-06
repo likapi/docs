@@ -18,15 +18,29 @@ Concevez et personnalisez rapidement des sites mobiles réactifs avec Likapi, la
 
 ## Installation du logiciel
 
-### Dépendances
+### Versions
+
+Vous pouvez retrouver les versions officiels du logiciel sur ce dépôt [tracker](https://github.com/likapi/tracker/releases).
 
 ### Linux
 
+1. > wget https://github.com/likapi/tracker/releases/download/v1.0-beta/v1.0-beta-likapi.deb
+2. > dpkg -i [nomdupacket].deb
+3. > likapi
+
 ### Windows
+
+Pas encore disponible...
 
 ### Mac Os
 
-### Configuration
+Pas encore disponible...
+
+## Désinstallation du logiciel
+
+### Linux
+
+> apt-get remove likapi
 
 ---
 
@@ -38,7 +52,7 @@ Likapi à été codé et crée  &copy;2020-{{ "now" | date: "%Y" }} par [Keany V
 
 Likapi est distribué avec [licence MIT](https://github.com/likapi/docs/blob/main/LICENSE).
 
-### Contribuant
+### Contributeurs
 
 Lorsque vous contribuez à ce référentiel, veuillez d'abord discuter du changement que vous souhaitez apporter via un problème,
 email, ou toute autre méthode avec les propriétaires de ce référentiel avant d'apporter une modification. En savoir plus sur comment devenir contributeur sur [notre dépôt GitHub](https://github.com/likapi/docs#contributing).
