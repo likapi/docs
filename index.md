@@ -24,9 +24,13 @@ Vous pouvez retrouver les versions officiels du logiciel sur ce dépôt [tracker
 
 ### Linux
 
-1. > wget https://github.com/likapi/tracker/releases/download/v1.0-beta/v1.0-beta-likapi.deb
-2. > dpkg -i [nomdupacket].deb
-3. > likapi
+```bash
+$ wget https://github.com/likapi/tracker/releases/download/v1.0-beta/v1.0-beta-likapi.deb
+
+$ dpkg -i [nomdupacket].deb
+
+$ likapi
+```
 
 ### Windows
 
@@ -40,13 +44,17 @@ Pas encore disponible...
 
 ### Linux
 
-> likapi-gui
+```bash
+$ likapi-gui
+```
 
 ## Désinstallation du logiciel
 
 ### Linux
 
-> apt-get remove likapi
+```bash
+$ apt-get remove likapi
+```
 
 ---
 
