@@ -36,6 +36,12 @@ Pas encore disponible...
 
 Pas encore disponible...
 
+## Exécution en interface graphique
+
+### Linux
+
+> likapi-gui
+
 ## Désinstallation du logiciel
 
 ### Linux
