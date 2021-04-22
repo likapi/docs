@@ -25,9 +25,9 @@ Vous pouvez retrouver les versions officielles du logiciel sur ce dépôt [track
 ### Linux
 
 ```bash
-$ wget https://github.com/likapi/tracker/releases/download/v1.0-beta/v1.0-beta-likapi.deb
+$ wget https://github.com/likapi/tracker/releases/download/v1.0-beta-linux/v1.0-beta-likapi.deb
 
-$ dpkg -i [nomdupacket].deb
+$ sudo dpkg -i [nomdupacket].deb
 
 $ likapi
 ```
@@ -53,7 +53,7 @@ $ likapi-gui
 ### Linux
 
 ```bash
-$ apt-get remove likapi
+$ sudo apt-get remove likapi
 ```
 
 ---
